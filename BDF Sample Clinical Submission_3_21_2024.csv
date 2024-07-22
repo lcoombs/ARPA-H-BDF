@@ -1,0 +1,26 @@
+﻿CBS SUBMISSION TO DART,,,,,,,,,,,
+Program.name,Project.name,Facility.id,Patient.acrid,Patient.datavantid,Patient.age,Patient.ageFactor,Patient.sex,Patient.race,Patient.ethnicity,Patient.tag.familyHistoryBC,Patient.tag.familyHistoryOC
+BDF Index,breast density classificaton algorithm,29,11003,aB3#9Gz$1h@5L*p,56,Y,1,5,2,0,0
+BDF Index,breast density classificaton algorithm,212,11005,R2$oPq8!J9&y3+l,56,Y,1,5,2,0,0
+BDF Index,breast density classificaton algorithm,29,11006,5t#Ku7l@W2*V9!y,57,Y,1,5,2,1,0
+BDF Index,breast density classificaton algorithm,207,11019,D6%pL5j$N2@q#v9,55,Y,1,5,2,1,0
+BDF Index,breast density classificaton algorithm,212,11025,m@3Nj2p!Qb$8V&k,45,Y,1,5,2,1,0
+BDF Index,breast density classificaton algorithm,207,11026,S7!vY5*p2&tQl$1,53,Y,1,5,2,0,1
+BDF Index,breast density classificaton algorithm,7,11027,9r$J#tLp4q!V7nK,52,Y,1,5,2,0,0
+BDF Index,breast density classificaton algorithm,7,11030,f2*Ql@9&Rt$3D#s,45,Y,1,5,1,1,0
+BDF Index,breast density classificaton algorithm,102,11033,E5&d6!bQp@z#8A9,52,Y,1,98,98,1,0
+BDF Index,breast density classificaton algorithm,16,11037,1p@6KtNq3!z$B&f,60,Y,1,5,2,0,0
+BDF Index,breast density classificaton algorithm,207,11038,i4#s9@l*5Zq6JpD,63,Y,1,5,2,0,0
+BDF Index,breast density classificaton algorithm,212,11047,P7@n3!vQj$Lm4#u,55,Y,1,5,2,0,0
+BDF Index,breast density classificaton algorithm,57,11051,oR#8M@5!u6Z1wKj,58,Y,1,5,2,1,1
+BDF Index,breast density classificaton algorithm,102,11054,H2@r4Q!z9pVt#l,46,Y,1,5,2,1,1
+BDF Index,breast density classificaton algorithm,102,11055,3D@f8vTz#6$7pQl,65,Y,1,5,2,1,0
+BDF Index,breast density classificaton algorithm,207,11056,q2!5l#R8@Pm$7zV,73,Y,1,5,2,1,0
+BDF Index,breast density classificaton algorithm,212,11057,k1!Jp3Hl$6Q@zV7,57,Y,1,5,2,0,1
+BDF Index,breast density classificaton algorithm,75,11058,N4@r8lT6$Vz#q&1,40,Y,1,5,2,1,0
+,,,,,,,,,,,
+,,,,,,,,,,,
+SITE SUBMISSION TEMPLATE,,,,,,,,,,,
+"Process with project anonymization rule for (0010,0020)",,,,,,,,,,,
+MRN,Patient.age,Patient.ageFactor,Patient.sex,Patient.race,Patient.ethnicity,Patient.tag.familyHistoryBC,Patient.tag.familyHistoryOC,,,,
+,,,,,,,,,,,
